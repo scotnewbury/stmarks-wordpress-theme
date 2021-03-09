@@ -20,9 +20,7 @@
 
     </section>
   <?php } ?>
-  <aside id="sidebar">
-      <?php dynamic_sidebar('main_sidebar'); ?>
-    </aside>
+
   </div>
 
 <?php get_footer(); ?>
