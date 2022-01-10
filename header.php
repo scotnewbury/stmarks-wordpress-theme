@@ -45,7 +45,7 @@
             <?php if(get_post_type() == 'post') echo 'id="active"'?>>News & Events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo site_url('/2021-lodge-officers/'); ?>"
+            <a class="nav-link" href="<?php echo site_url('/2022-lodge-officers/'); ?>"
             <?php if(is_page('2022-lodge-officers/')) echo 'id="active"'?>>2022 Officers</a>
           </li>
           <li class="nav-item">
