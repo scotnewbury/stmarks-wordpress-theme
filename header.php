@@ -46,7 +46,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?php echo site_url('/2021-lodge-officers/'); ?>"
-            <?php if(is_page('2021-lodge-officers/')) echo 'id="active"'?>>2021 Officers</a>
+            <?php if(is_page('2022-lodge-officers/')) echo 'id="active"'?>>2022 Officers</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?php echo site_url('/temple-calendar/'); ?>"
