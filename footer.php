@@ -18,7 +18,7 @@
           <div id="center-footer">
             <h3>Contact Us</h3>
             <p>
-              W&there4;B&there4; Guy Joyce, Worshipful Master:<br />
+              W&there4;B&there4; Jeremy Ledoux, Worshipful Master:<br />
               <a href="mailto:wm@stmarkslodge.org"
                 >wm@stmarkslodge.org</a
               >
