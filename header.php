@@ -45,8 +45,8 @@
             <?php if(get_post_type() == 'post') echo 'id="active"'?>>News & Events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo site_url('/2023-lodge-officers/'); ?>"
-            <?php if(is_page('2023-lodge-officers/')) echo 'id="active"'?>>2023 Officers</a>
+            <a class="nav-link" href="<?php echo site_url('/2024-lodge-officers/'); ?>"
+            <?php if(is_page('2023-lodge-officers/')) echo 'id="active"'?>>2024 Officers</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?php echo site_url('/temple-calendar/'); ?>"
