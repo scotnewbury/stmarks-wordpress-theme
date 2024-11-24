@@ -75,7 +75,7 @@ textarea:focus {
 
 h1 {
   padding: 8px;
-  background: rgba(26, 52, 101, 0.4);
+  /* background: rgba(26, 52, 101, 0.4); */
   border-radius: 8px;
   margin: 0;
   font-size: 64px;
@@ -649,6 +649,7 @@ footer #social-media-footer ul li:hover a .fa-facebook {
   .blogpost {
     border-left: 0px solid #999;
   }
+
   #sidebar {
     display: none;
   }
@@ -732,12 +733,15 @@ footer #social-media-footer ul li:hover a .fa-facebook {
   main {
     width: 95%;
   }
+
   .card {
     width: 45%;
   }
+
   .card .card-image img {
     width: 100%;
   }
+
   #banner {
     height: 100vh;
     background-attachment: fixed;
