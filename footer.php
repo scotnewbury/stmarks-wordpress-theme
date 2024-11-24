@@ -22,7 +22,7 @@
           <a href="mailto:wm@stmarkslodge.org">wm@stmarkslodge.org</a>
         </p>
         <p>
-          Bro John Wadsworth, Secretary:<br />
+          R&there4;W&there4; Scot Newbury, Secretary:<br />
           <a href="mailto:secretary@stmarkslodge.org">
             secretary@stmarkslodge.org
           </a>
