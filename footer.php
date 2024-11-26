@@ -7,7 +7,7 @@
           58 East Broadway<br />
           Derry, NH 03038
         </p>
-        <p>Phone: 603-432-9711</p>
+        <p>Phone: 603-216-1049</p>
         <p>
           Meets: 7:30pm on the 3rd Monday<br />
           except July &amp August
