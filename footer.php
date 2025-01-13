@@ -18,11 +18,11 @@
       <div id="center-footer">
         <h3>Contact Us</h3>
         <p>
-          W&there4;B&there4; Jeremy Ledoux, Worshipful Master:<br />
+          W&there4;B&there4; Guy Joyce, Worshipful Master:<br />
           <a href="mailto:wm@stmarkslodge.org">wm@stmarkslodge.org</a>
         </p>
         <p>
-          Bro John Wadsworth, Secretary:<br />
+          W&there4;B&there4; Scot Newbury, Secretary:<br />
           <a href="mailto:secretary@stmarkslodge.org">
             secretary@stmarkslodge.org
           </a>
